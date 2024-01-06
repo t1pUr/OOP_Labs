@@ -1,10 +1,10 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - this
+  - Object: 🎓 known
+  - this: 👂 heard
   - arrow function: 🖐️ used
-  - async function
+  - async function: 👂 heard
   - call
   - bind
   - apply
